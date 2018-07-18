@@ -1,0 +1,6 @@
+F:\Lesson_13\Task1\bin\Debug\Task1.exe.config
+F:\Lesson_13\Task1\bin\Debug\Task1.exe
+F:\Lesson_13\Task1\bin\Debug\Task1.pdb
+F:\Lesson_13\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache
+F:\Lesson_13\Task1\obj\Debug\Task1.exe
+F:\Lesson_13\Task1\obj\Debug\Task1.pdb
